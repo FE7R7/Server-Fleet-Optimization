@@ -4,7 +4,10 @@
     <option name="format" value="PLAIN" />
     <option name="myDocStringFormat" value="Plain" />
   </component>
+<<<<<<< HEAD
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="py.test" />
   </component>
+=======
+>>>>>>> e973b2bd9e2d53c694784e790d58ec76905038e6
 </module>

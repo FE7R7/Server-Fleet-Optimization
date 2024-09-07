@@ -12,7 +12,10 @@
           <option value="E501" />
           <option value="E712" />
           <option value="E266" />
+<<<<<<< HEAD
           <option value="E125" />
+=======
+>>>>>>> e973b2bd9e2d53c694784e790d58ec76905038e6
         </list>
       </option>
     </inspection_tool>
